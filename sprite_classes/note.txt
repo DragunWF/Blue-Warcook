@@ -1,0 +1,8 @@
+Note for improvement:
+
+    - You could make a file that imports all sprite classes so you only have to import
+    one file in the main script for organization
+    
+    - One thing that was left unfixed was the fact that the score kept running seconds after
+    the player already died
+    
