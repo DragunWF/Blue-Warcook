@@ -1,5 +1,5 @@
 # Blue-Warcook
-A game made with Python and PyGame.
+One of my first few projects with Python back when I was new to programming.
 
 ### Links:
  - [Link to the game](https://dragonwf.itch.io/blue-warcook)
