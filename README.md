@@ -6,13 +6,14 @@
 
 ## Description
 
-One of my first few projects with Python back when I was new to programming. Made possible with the PyGame module, 
+One of my old projects in Python. Don't expect the code to be that clean.
+
 Mainly made as a gift for my good friend, Warcook.
 
 ## Links
 
- - [Link to the game](https://dragonwf.itch.io/blue-warcook)
- 
+- [Link to the game](https://dragonwf.itch.io/blue-warcook)
+
 ## Attributions
 
 - [Background Music](https://soundcloud.com/juhanijunkala/sets/retro-game-music-pack-loop)
